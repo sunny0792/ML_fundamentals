@@ -1,0 +1,21 @@
+This folder contains solutions to week1 assignments.
+
+The following files were filled out. 
+
+%     warmUpExercise.m
+%     plotData.m
+%     gradientDescent.m
+%     computeCost.m
+%     gradientDescentMulti.m
+%     computeCostMulti.m
+%     featureNormalize.m
+%     normalEqn.m
+
+Note - All other files build the environment and control structure of the .m file. 
+Through these files the following have been evaluated for linear and multivariate regression. 
+
+1. Cost function for gradient descent
+2. Vectorized implementation of Gradient descent 
+3. Feature normalization 
+4. Normal equation solutions as a comparison to gradient descent. 
+5. Visualizations of data, regression lines and learning rates.
